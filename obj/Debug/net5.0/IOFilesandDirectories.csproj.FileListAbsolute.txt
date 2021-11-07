@@ -1,0 +1,16 @@
+C:\Users\Dennis\source\repos\IO\bin\Debug\net5.0\IOFilesandDirectories.exe
+C:\Users\Dennis\source\repos\IO\bin\Debug\net5.0\IOFilesandDirectories.deps.json
+C:\Users\Dennis\source\repos\IO\bin\Debug\net5.0\IOFilesandDirectories.runtimeconfig.json
+C:\Users\Dennis\source\repos\IO\bin\Debug\net5.0\IOFilesandDirectories.runtimeconfig.dev.json
+C:\Users\Dennis\source\repos\IO\bin\Debug\net5.0\IOFilesandDirectories.dll
+C:\Users\Dennis\source\repos\IO\bin\Debug\net5.0\ref\IOFilesandDirectories.dll
+C:\Users\Dennis\source\repos\IO\bin\Debug\net5.0\IOFilesandDirectories.pdb
+C:\Users\Dennis\source\repos\IO\obj\Debug\net5.0\IOFilesandDirectories.csproj.AssemblyReference.cache
+C:\Users\Dennis\source\repos\IO\obj\Debug\net5.0\IOFilesandDirectories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dennis\source\repos\IO\obj\Debug\net5.0\IOFilesandDirectories.AssemblyInfoInputs.cache
+C:\Users\Dennis\source\repos\IO\obj\Debug\net5.0\IOFilesandDirectories.AssemblyInfo.cs
+C:\Users\Dennis\source\repos\IO\obj\Debug\net5.0\IOFilesandDirectories.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\repos\IO\obj\Debug\net5.0\IOFilesandDirectories.dll
+C:\Users\Dennis\source\repos\IO\obj\Debug\net5.0\ref\IOFilesandDirectories.dll
+C:\Users\Dennis\source\repos\IO\obj\Debug\net5.0\IOFilesandDirectories.pdb
+C:\Users\Dennis\source\repos\IO\obj\Debug\net5.0\IOFilesandDirectories.genruntimeconfig.cache
